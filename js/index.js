@@ -7,5 +7,8 @@ $(function(){
 		$('.bdsharebuttonbox').show()
 	},function(){
 		$('.bdsharebuttonbox').hide()
-	})
+	});
+	$('.b_p1').animate({marginTop:'2rem'});
+	$('.banner h1').animate({marginTop:'1.15rem'});
+	$('.b_p2').animate({marginTop:'1.15rem'});
 })

@@ -32,7 +32,7 @@ header p{
 	margin-right: 0.2rem;
 	line-height: 1.25rem;
 	background: url(../image/phone.png) no-repeat 0 center;
-	background-size: 0.65rem 0.75rem;
+	background-size: 0.55rem 0.65rem;
 }
 /*banner*/
 .banner{
@@ -46,65 +46,17 @@ header p{
 }
 .banner p.b_p1{
 	font-size: 0.65rem;
-	position: absolute;
 	margin-top: 0;
 	color: #fff;
-	animation:run1 0.5s forwards  alternate linear;
 }
-@keyframes run1{
-		0%{
-			margin-top: 0.0rem;
-		}
-		100%{
-			margin-top: 2.0rem;
-		}
-	}
 .banner h1{
 	font-size: 2.2rem;
-	position: absolute;
-	margin-top: -2.0.06875rem;
 	color: #fff;
-	animation:run2 1s forwards  alternate linear;
 }
-@keyframes run2{
-		0%{
-			margin-top: -2.75rem;
-		}
-		100%{
-			margin-top: 1.15rem;
-		}
-	}
 .banner p.b_p2{
 	font-size: 0.7rem;
 	color: #fcff00;
-	position: absolute;
-	margin-top: -3.0.09375rem;
-	animation:run3 1.5s forwards  alternate linear;
 }
-@keyframes run3{
-		0%{
-			margin-top: -3.75rem;
-		}
-		50%{
-			margin-top: 2.625rem;
-		}
-		60%{
-			margin-top: 1.125rem;
-		}
-		70%{
-			margin-top: 1.5rem;
-		}
-		80%{
-			margin-top: 0.925rem;
-		}
-		90%{
-			margin-top: 1.3rem;
-		}
-		100%{
-			margin-top: 1.125rem;
-		}
-	}
-
 .cont1{
 	text-align: center;
 	overflow: hidden;
