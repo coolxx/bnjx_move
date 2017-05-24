@@ -517,6 +517,7 @@ th{
 	width: 18.0rem;
 	height: 1.7rem;
 	background: #1b1b1b;
+	overflow: hidden;
 }
 .foot .tel{
 	float: left;
@@ -537,17 +538,7 @@ th{
 	font-size: 0.6rem;
 	margin-right: 1.0rem;
 }
-.foot .fx{
-	float: right;
-	height: 1.7rem;
-	line-height: 1.7rem;
-	color: #fff;
-	font-size: 0.6rem;
-	margin-right: 1.5rem;
-}
 .bdsharebuttonbox{
-	display: none;
-	position: absolute;
-	bottom: 0;
-	right: 1.25rem;
+	margin-top: 0.35rem;
+	margin-left: 8.5rem
 }
