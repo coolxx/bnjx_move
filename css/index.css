@@ -46,6 +46,8 @@ header p{
 }
 .banner p.b_p1{
 	font-size: 0.65rem;
+	position: absolute;
+	margin-top: 0;
 	color: #fff;
 	animation:run1 0.5s forwards  alternate linear;
 }
@@ -59,6 +61,8 @@ header p{
 	}
 .banner h1{
 	font-size: 2.2rem;
+	position: absolute;
+	margin-top: -2.0.06875rem;
 	color: #fff;
 	animation:run2 1s forwards  alternate linear;
 }
@@ -73,6 +77,8 @@ header p{
 .banner p.b_p2{
 	font-size: 0.7rem;
 	color: #fcff00;
+	position: absolute;
+	margin-top: -3.0.09375rem;
 	animation:run3 1.5s forwards  alternate linear;
 }
 @keyframes run3{
@@ -289,6 +295,7 @@ header p{
 	color: #fff;
 	padding-left: 0.75rem;
 	background: url(../image/point.png) no-repeat 0.25rem 0.3rem;
+	background-size: 0.2rem 0.2rem;
 	text-align: left;
 }
 .box1 li.cont3_c1{
