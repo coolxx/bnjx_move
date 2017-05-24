@@ -548,6 +548,6 @@ th{
 .bdsharebuttonbox{
 	display: none;
 	position: absolute;
-	top: 198.0rem;
+	bottom: 0;
 	right: 1.25rem;
 }
