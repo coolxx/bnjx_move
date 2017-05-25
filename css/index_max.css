@@ -546,6 +546,7 @@ th{
 	overflow: hidden;
 	text-align: center;
 	background: url(../image/cont7_bg.png) no-repeat center 0;
+	height: 596px;
 }
 .cont7 img{
 	margin-bottom: 18px;
@@ -557,6 +558,8 @@ th{
 	height: 68px;
 	background: #1b1b1b;
 	overflow: hidden;
+	position: fixed;
+	bottom: 0;
 }
 .foot .tel{
 	float: left;
@@ -576,8 +579,4 @@ th{
 	color: #fff;
 	font-size: 24px;
 	margin-right: 40px;
-}
-.bdsharebuttonbox{
-	margin-top: 14px;
-	margin-left: 340px
 }
