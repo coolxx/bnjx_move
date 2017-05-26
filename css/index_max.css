@@ -103,18 +103,19 @@ header p{
 .cont1{
 	text-align: center;
 	overflow: hidden;
-	background: url(../image/cont1_bg.png) no-repeat center 135px;
+	background: url(../image/cont1_bg.png) no-repeat center 128px;
+	height: 770px;
 }
 .tt_p{
 	font-size: 33px;
 	font-weight: bold;
 	color: #f73157;
-	margin-top: 36px;
+	margin-top: 25px;
 }
 .tt_h{
 	font-size: 38px;
 	color: #5d70dd;
-	margin-top: 22px;
+	margin-top: 10px;
 }
 .tt_h span{
 	font-size: 40px;
@@ -159,6 +160,7 @@ header p{
 .cont2{
 	overflow: hidden;
 	text-align: center;
+	height: 2940px;
 }
 .cont2_tt{
 	width: 720px;
@@ -372,6 +374,10 @@ header p{
 .cont4{
 	overflow: hidden;
 	text-align: center;
+	height: 630px;
+}
+.tt_px{
+	margin-top: 40px;
 }
 .cont4_cc{
 	position: relative;
@@ -494,7 +500,8 @@ th{
 .cont6{
 	overflow: hidden;
 	text-align: center;
-	background: url(../image/cont6_bg.png) no-repeat center 100px;
+	background: url(../image/cont6_bg.png) no-repeat center 90px;
+	height: 710px;
 }
 .cont6 .cont6_cc{
 	width: 700px;
@@ -545,8 +552,8 @@ th{
 .cont7{
 	overflow: hidden;
 	text-align: center;
-	background: url(../image/cont7_bg.png) no-repeat center 0;
-	height: 596px;
+	background: url(../image/cont7_bg.png) no-repeat center -29px;
+	height: 575px;
 }
 .cont7 img{
 	margin-bottom: 18px;
@@ -597,7 +604,6 @@ th{
 	padding: 0!important;
 
 }
-.bdsharebuttonbox .bdshare-button-style0-16 a,{
+.bdshare-button-style0-16 a, .bdshare-button-style0-16 .bds_more{
 	background-image: none!important;
-	
 }

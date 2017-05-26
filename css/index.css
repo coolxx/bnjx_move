@@ -61,17 +61,18 @@ header p{
 .cont1{
 	text-align: center;
 	overflow: hidden;
-	background: url(../image/cont1_bg.png) no-repeat center 3.375rem;
+	background: url(../image/cont1_bg.png) no-repeat center 3.7rem;
 	background-size: 18.0rem 14.925rem;
+	height: 19.25rem;
 }
 .tt_p{
 	font-size: 0.825rem;
 	font-weight: bold;
 	color: #f73157;
-	margin-top: 0.9rem;
+	margin-top: 0.625rem;
 }
 .tt_h{
-	font-size: 1.0rem;
+	font-size: 1rem;
 	color: #5d70dd;
 	margin-top: 0.55rem;
 }
@@ -87,7 +88,7 @@ header p{
 }
 .cont1_cc{
 	width: 17.25rem;
-	height: 13.5rem;
+	height: 13rem;
 	border: 0.05rem solid #5d70dd;
 	margin: 0 auto;
 	border-radius: 0.1rem;
@@ -97,8 +98,8 @@ header p{
 	text-align: left;
 	font-size: 0.6rem;
 	width: 16.6rem;
-	height: 2.25rem;
-	line-height: 2.25rem;
+	height: 2.2rem;
+	line-height: 2.2rem;
 	background: url(../image/cont1_l.png) no-repeat 95% center;
 	background-size: 1.55rem 1.55rem;
 	padding-left: 0.75rem;
@@ -138,6 +139,7 @@ header p{
 .cont2_cc{
 	width: 18.0rem;
 	background: #fbfbfb;
+	overflow: hidden;
 }
 .cont2_cc p{
 	width: 17.0rem;
@@ -335,6 +337,10 @@ header p{
 .cont4{
 	overflow: hidden;
 	text-align: center;
+	height: 15.75rem
+}
+.tt_px{
+	margin-top: 1.0rem;
 }
 .cont4_cc{
 	position: relative;
@@ -457,7 +463,8 @@ th{
 .cont6{
 	overflow: hidden;
 	text-align: center;
-	background: url(../image/cont6_bg.png) no-repeat center 2.5rem;
+	background: url(../image/cont6_bg.png) no-repeat center 2.25rem;
+	height: 17.75rem;
 	background-size: 18.0rem 13.25rem;
 }
 .cont6 .cont6_cc{
