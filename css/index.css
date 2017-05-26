@@ -33,6 +33,7 @@ header p{
 	line-height: 1.25rem;
 	background: url(../image/phone.png) no-repeat 0 center;
 	background-size: 0.55rem 0.65rem;
+	padding-top: 0.125rem
 }
 /*banner*/
 .banner{
