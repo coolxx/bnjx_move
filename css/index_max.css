@@ -595,7 +595,9 @@ th{
 	display: block!important;
 	line-height: 68px!important;
 	padding: 0!important;
+
 }
-.bdshare-button-style0-16 a, .bdshare-button-style0-16 .bds_more{
+.bdsharebuttonbox .bdshare-button-style0-16 a,{
 	background-image: none!important;
+	
 }
