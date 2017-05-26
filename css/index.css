@@ -542,7 +542,18 @@ th{
 	font-size: 0.6rem;
 	margin-right: 1.0rem;
 }
-.bdsharebuttonbox{
-	margin-left: 8.5rem;
-	height: 1.7rem;
+.jiathis_style_m{
+	width: 5.5rem;
+	height: 1.625rem;
+	float:left;
+}
+.jiathis_weixin_h3{
+	font-size: 0.6rem;
+}
+.jiathis_weixin_modal{
+	width: 12.5rem !important;
+	height: 18.5rem !important;
+}
+.jiathis_txt{
+	color: #fff;
 }

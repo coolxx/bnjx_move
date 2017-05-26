@@ -580,3 +580,22 @@ th{
 	font-size: 24px;
 	margin-right: 40px;
 }
+.bdsharebuttonbox{
+	overflow: hidden;
+	float: right;
+	width: 100px!important;
+	height: 68px!important;
+	
+}
+.bdsharebuttonbox > a{
+	font-size: 24px!important;
+	color: #fff!important;
+	width: 55px!important;
+	height: 68px!important;
+	display: block!important;
+	line-height: 68px!important;
+	padding: 0!important;
+}
+.bdshare-button-style0-16 a, .bdshare-button-style0-16 .bds_more{
+	background-image: none!important;
+}
